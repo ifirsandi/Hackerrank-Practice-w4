@@ -1,4 +1,4 @@
-# salah
+# Hackerrank-Practice-w4
 
 /**Practice 1 Camel case**/
 https://www.hackerrank.com/challenges/camelcase/problem
